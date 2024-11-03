@@ -34,7 +34,7 @@ pip install requests pandas numpy beautifulsoup4
 1. **Clone the repository**:
 
    ```bash
-   git clone [https://github.com/Shamanthkrishna/DEProjects.git](https://github.com/Shamanthkrishna/DEProjects.git)
+   git clone https://github.com/Shamanthkrishna/DEProjects.git
    cd DEProjects
    ```
 
