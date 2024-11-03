@@ -34,8 +34,8 @@ pip install requests pandas numpy beautifulsoup4
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
-   cd repositoryname
+   git clone [https://github.com/Shamanthkrishna/DEProjects.git](https://github.com/Shamanthkrishna/DEProjects.git)
+   cd DEProjects
    ```
 
 2. **Prepare the exchange rates file**:
